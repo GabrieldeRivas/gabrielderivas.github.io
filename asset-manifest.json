@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gabrielderivas.github.io/static/css/main.3e80e0b4.css",
+    "main.js": "/gabrielderivas.github.io/static/js/main.e16f7825.js",
+    "static/js/787.424964f5.chunk.js": "/gabrielderivas.github.io/static/js/787.424964f5.chunk.js",
+    "index.html": "/gabrielderivas.github.io/index.html",
+    "main.3e80e0b4.css.map": "/gabrielderivas.github.io/static/css/main.3e80e0b4.css.map",
+    "main.e16f7825.js.map": "/gabrielderivas.github.io/static/js/main.e16f7825.js.map",
+    "787.424964f5.chunk.js.map": "/gabrielderivas.github.io/static/js/787.424964f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e80e0b4.css",
+    "static/js/main.e16f7825.js"
+  ]
+}
